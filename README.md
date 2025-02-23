@@ -1,2 +1,2 @@
--h1Hello! I'm Edwin Armijos. img scr="htpps://raw.githubusercontent.com/iampvangandhi/iampvangandhi/iampvangandhi/master/gifts/Hi.gif" anchura="30px"*h1-
--h2Estudiante Universitarioh2_
+<h1>Hello! I'm Edwin Armijos. <img src="https://raw.githubusercontent.com/iampvangandhi/iampvangandhi/iampvangandhi/master/gifts/Hi.gif" width="30px"/></h1>
+<h2>Estudiante Universitario</h2>
