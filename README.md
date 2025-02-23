@@ -1,3 +1,2 @@
-# Isyeday
-
-<h1>Hello! I'm Edwin Armijos <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width
+-h1Hello! I'm Edwin Armijos. img scr="htpps://raw.githubusercontent.com/iampvangandhi/iampvangandhi/iampvangandhi/master/gifts/Hi.gif" anchura="30px"*h1-
+-h2Estudiante Universitarioh2_
